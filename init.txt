@@ -1,0 +1,2 @@
+запуск:
+(load "....way...\\AutoSalon.lsp")
